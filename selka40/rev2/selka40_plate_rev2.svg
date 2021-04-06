@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-1504.912"
-     inkscape:cy="1489.736"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="87.399218"
+     inkscape:cy="345.74619"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -35,7 +35,19 @@
      inkscape:window-height="2092"
      inkscape:window-x="0"
      inkscape:window-y="31"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     showguides="true"
+     inkscape:guide-bbox="true" />
   <metadata
      id="metadata11334">
     <rdf:RDF>
@@ -44,7 +56,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -228,11 +240,6 @@
     <path
        inkscape:connector-curvature="0"
        style="font-size:12px;vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;shape-rendering:crispEdges"
-       d="m 344.01459,463.55698 a 0.49999998,0.49999998 0 0 0 0.5,0.5 h 13 a 0.49999998,0.49999998 0 0 0 0.5001,-0.5 v -13.0001 a 0.49999998,0.49999998 0 0 0 -0.5001,-0.5 h -13 a 0.49999998,0.49999998 0 0 0 -0.5,0.5 z"
-       id="path22406-1" />
-    <path
-       inkscape:connector-curvature="0"
-       style="font-size:12px;vector-effect:non-scaling-stroke;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.25400001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;shape-rendering:crispEdges"
        d="m 363.06459,463.55698 a 0.49999998,0.49999998 0 0 0 0.5001,0.5 h 12.9999 a 0.49999998,0.49999998 0 0 0 0.5001,-0.5 v -13.0001 a 0.49999998,0.49999998 0 0 0 -0.5001,-0.5 h -12.9999 a 0.49999998,0.49999998 0 0 0 -0.5001,0.5 z"
        id="path22404-7" />
     <path
@@ -382,5 +389,14 @@
        cx="608.93152"
        cy="451.93021"
        r="1" />
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.05;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect892"
+       width="14.0001"
+       height="17"
+       x="344.01459"
+       y="450.05688"
+       rx="0.49999899"
+       ry="0.49999899" />
   </g>
 </svg>
